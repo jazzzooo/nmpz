@@ -1,0 +1,16 @@
+{
+  "easy": {
+    "t": 20,
+    "resolution": 8,
+    "threshold": 9,
+    "iv": "10cd2c794926bb63ceec53c46b79b87c",
+    "ciphertext": "05f8123659d2df63a4706c6bc00dc9bd046345f6e555b2b01dbc4bfcaf99b7239da31aec784514074b3994ae01ed4de8"
+  },
+  "hard": {
+    "t": 80,
+    "resolution": 10,
+    "threshold": 9,
+    "iv": "76f18839d70f84a3c4ad36e312779874",
+    "ciphertext": "a2f3c94f20d8aa1b7563bec8e5a5d2063dc929268eb4b5b365689db52c62e504e6031c6ed09b1f3493c41438a2fb3b6c"
+  }
+}

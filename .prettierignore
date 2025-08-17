@@ -1,0 +1,52 @@
+# Dependencies
+node_modules/
+.svelte-kit/
+build/
+dist/
+
+# Images and assets
+*.jpeg
+*.jpg
+*.png
+*.gif
+*.ico
+*.svg
+*.webp
+*.avif
+
+# Static assets directory
+public/img/
+static/panoramas
+static/lib
+
+# Claude files
+.claude
+
+# Other binary files
+*.pdf
+*.zip
+*.tar.gz
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Lock files (generated)
+bun.lockb
+package-lock.json
+yarn.lock

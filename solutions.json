@@ -1,0 +1,206 @@
+{
+  "easy": [
+    {
+      "name": "taxi",
+      "pano": "I80ZsR0eZLUQ55OPcHD8QQ",
+      "lat": 38.37687175,
+      "lng": 14.98744796,
+      "h3Index": "881e9ba837fffff",
+      "argon2": "503a901cd1406a1715a08afe3bf09e41",
+      "shareIndex": 1,
+      "share": "1f42546e84913f7d51aa478d8892d4e8ef"
+    },
+    {
+      "name": "bridge",
+      "pano": "H1T-9f9rI9dHmdPdcBQLHw",
+      "lat": 22.16358526,
+      "lng": 113.54950171,
+      "h3Index": "88410365c5fffff",
+      "argon2": "da24fa75a6a3d40f871826792c54d1fa",
+      "shareIndex": 2,
+      "share": "e7c1c192f35ac48faed575e7d7cdcc73df"
+    },
+    {
+      "name": "site",
+      "pano": "Fddd42w1FDEYV-mKRnKOiA",
+      "lat": 37.92474847,
+      "lng": 29.11590537,
+      "h3Index": "883f611905fffff",
+      "argon2": "b342bdfd8559cd78ab87f769e0e45207",
+      "shareIndex": 3,
+      "share": "91ac83bde0394b0f00b64137b767756027"
+    },
+    {
+      "name": "sanic",
+      "pano": "tbqgPNveFkGyxLOiAkdr_g",
+      "lat": 29.61606794,
+      "lng": -97.876556,
+      "h3Index": "88489c4809fffff",
+      "argon2": "d1dec308a31e4e5495cb6da60748a301",
+      "shareIndex": 4,
+      "share": "efe7879bc0d487dd83157cd636a4751d71"
+    },
+    {
+      "name": "bus_stop",
+      "pano": "vhYJ5RL3pNceAKHpJI2GJQ",
+      "lat": 52.36676299,
+      "lng": 16.9446577,
+      "h3Index": "881e24a85bfffff",
+      "argon2": "8f608873432fe9383a6568800caa4e22",
+      "shareIndex": 5,
+      "share": "6102b68bf1e22cad70e924b183caa4e747"
+    },
+    {
+      "name": "no_entry",
+      "pano": "5b1_anuHeWXRDviZB3DsyQ",
+      "lat": 23.7056862,
+      "lng": 92.71552138,
+      "h3Index": "883cc0accbfffff",
+      "argon2": "1c2e05c00130dc5a4c31d0f5b17ed39d",
+      "shareIndex": 6,
+      "share": "198785837e5404a4461e1cb009e6b9e131"
+    },
+    {
+      "name": "parking",
+      "pano": "sZaVf_Qz0cY3-xViQQdeag",
+      "lat": 54.81076318,
+      "lng": 8.28890897,
+      "h3Index": "881f302509fffff",
+      "argon2": "394ec3dafee6c71f87b8d0939367f126",
+      "shareIndex": 7,
+      "share": "9a8d2bc62ea97bc565fa0178046ff9c862"
+    },
+    {
+      "name": "tour_bus",
+      "pano": "04uFthOYKLSaiHmoM79QMQ",
+      "lat": 53.94960193,
+      "lng": 157.73873578,
+      "h3Index": "881789223bfffff",
+      "argon2": "91b71b34bd03da18b5d10f9deae3d2e9",
+      "shareIndex": 8,
+      "share": "1c759c6e4c9e943f00bb5e74c0d3123513"
+    },
+    {
+      "name": "dragon",
+      "pano": "OeY4PnooJSTKTDtG7Yd3yA",
+      "lat": 23.21879817,
+      "lng": 119.44641386,
+      "h3Index": "884bb55439fffff",
+      "argon2": "cae970fb87b2f2ce147113c5a2544530",
+      "shareIndex": 9,
+      "share": "b02a9da30d43896482f85db776864bfcd3"
+    },
+    {
+      "name": "2011",
+      "pano": "whv-bsQNeuTusZAeoobAuA",
+      "lat": 63.78673339,
+      "lng": 20.87449676,
+      "h3Index": "8808f28ec9fffff",
+      "argon2": "afc81f9363a1ea4d6dee39b1d2c0bb3a",
+      "shareIndex": 10,
+      "share": "6b51c802951e76a5aa6e6504a5ed9e4494"
+    }
+  ],
+  "hard": [
+    {
+      "name": "torga",
+      "pano": "FbnjOWwiw9vYRKn-UfjwAg",
+      "lat": 41.49698078,
+      "lng": -6.27533918,
+      "h3Index": "8a392e51d84ffff",
+      "argon2": "9619d606b88e5473f0ed82a31996a79d",
+      "shareIndex": 1,
+      "share": "63fd3fa04e3e14f00c64871113c4a65776"
+    },
+    {
+      "name": "mini_cooper",
+      "pano": "4WXTdYxMdvfA1xWeG7SlCw",
+      "lat": -41.11114278,
+      "lng": 146.06494741,
+      "h3Index": "8abf4b8dcc67fff",
+      "argon2": "1e0efaea88842ee6381e868fa4b282f6",
+      "shareIndex": 2,
+      "share": "71c108d5172b316a7bec2801fb1dcecd8d"
+    },
+    {
+      "name": "vagrant",
+      "pano": "4O1Ec0T5S5jtzXDr8_Jtgg",
+      "lat": 47.23974572,
+      "lng": -122.63113167,
+      "h3Index": "8a28d5d4a887fff",
+      "argon2": "8e97ee1e8a04aa1109eca7e9e53f2b41",
+      "shareIndex": 3,
+      "share": "72b66627fe8c62f2af01c12313d5a52bf9"
+    },
+    {
+      "name": "walkable",
+      "pano": "KZbL4ucOBUkEgQNEfDP0Ug",
+      "lat": 61.13801274,
+      "lng": -146.31911587,
+      "h3Index": "8a0c4415000ffff",
+      "argon2": "7d6ad7b34760651f61e9e755cecd4834",
+      "shareIndex": 4,
+      "share": "6a5a813bac66185baef7cef81bdaaeeca3"
+    },
+    {
+      "name": "1f5ff",
+      "pano": "1pJWH7cOmYJygOWsg0R6vw",
+      "lat": -18.35012872,
+      "lng": -70.33562454,
+      "h3Index": "8ab3046348d7fff",
+      "argon2": "e3bb728368327f8fc4bd6cdd8395e8bb",
+      "shareIndex": 5,
+      "share": "32981496e406fee5f39e7864edd5b3286b"
+    },
+    {
+      "name": "shipping",
+      "pano": "nknS1VKk6QiOHtd1E14MYw",
+      "lat": 13.15147952,
+      "lng": 100.80661221,
+      "h3Index": "8a658bc84057fff",
+      "argon2": "734e4b003eb00f2a224e1c4cdcf0824d",
+      "shareIndex": 6,
+      "share": "b4c74858fa8276d24592654b77f4b67a4d"
+    },
+    {
+      "name": "blue",
+      "pano": "z7lCiGErutefBcXfC86yNw",
+      "lat": -54.53666762,
+      "lng": -67.20753475,
+      "h3Index": "8adf456f605ffff",
+      "argon2": "416029a406c0957b220d4ec08d4ddf95",
+      "shareIndex": 7,
+      "share": "2b4ceda3a467e4b055db8a971ca01bd923"
+    },
+    {
+      "name": "crop_circles",
+      "pano": "-lo8O3h24ReW7Vi6eKAVcg",
+      "lat": -24.61332113,
+      "lng": 17.93405628,
+      "h3Index": "8aad9daad417fff",
+      "argon2": "bdf5746a97374960bc7e09344f97519c",
+      "shareIndex": 8,
+      "share": "7765d710ca33f1f4a2d1645847fcf2e014"
+    },
+    {
+      "name": "cabbage",
+      "pano": "3ozbgMQN2ia0fWABjee02w",
+      "lat": 37.55749448,
+      "lng": 128.56502739,
+      "h3Index": "8a30ec6b4327fff",
+      "argon2": "5fcbc0dd6d65be71127d55424099c584",
+      "shareIndex": 9,
+      "share": "946785660ee2c39dcaef0f92d39dde3643"
+    },
+    {
+      "name": "blocks",
+      "pano": "soZwqCOmb7saV_55w3ed8Q",
+      "lat": 13.9097061,
+      "lng": 121.99486178,
+      "h3Index": "8a694a126bb7fff",
+      "argon2": "7e6869eb1d7ab0bd0f52f66c3e4d61d1",
+      "shareIndex": 10,
+      "share": "effc9604d9990656d5a696ec80a471a902"
+    }
+  ]
+}

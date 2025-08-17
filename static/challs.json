@@ -1,0 +1,146 @@
+{
+  "easy": [
+    {
+      "name": "taxi",
+      "sha256": "5bae1ef485d73fda381457c0088002241ddb76fdcc67d48443be83236607e8e1",
+      "shareIndex": 1,
+      "iv": "7d9ad3c39ba1fe3370d2f25d2bd24985",
+      "ciphertext": "469489ba16d7456119e68565bfcda91e74889a7aba8957c2596eed7ca2e585a989987fa4f7a381a7ee80fe76333bfcef"
+    },
+    {
+      "name": "bridge",
+      "sha256": "8635b9fc789107e612e135d245174e3bfcdcd695ce562fb90af23dc8476f97af",
+      "shareIndex": 2,
+      "iv": "f7c9273ee501b5bf113381e0142a31d9",
+      "ciphertext": "809bdb37a901da65d7e88601f69db0dae59c3481685f153026191e550a1ccbbc406628652db38c06add73d78eccf8633"
+    },
+    {
+      "name": "site",
+      "sha256": "b533f2660e4ea276629a1382d131f81ab3a3eabe9bf9158961088b1ad4e0ee03",
+      "shareIndex": 3,
+      "iv": "40511c1f8ba4ba337f0907437bcd7aa6",
+      "ciphertext": "48056a46ec676ac00ab6513d6287c40fdb74f3dfe0ccb88489cbacc717645d76cd2a9a562464127ce76accb0212d7be6"
+    },
+    {
+      "name": "sanic",
+      "sha256": "c0cf39b6c5c2d2dc4923c5b25e2a320aa83ea35dea20de9e6addb23566e63ee2",
+      "shareIndex": 4,
+      "iv": "356ff2d423906a94dbc07db139d2ff27",
+      "ciphertext": "977c412c81cabee99a68d4e2c4ad271f5fcf2f7062f150ea4b3e9a203e3f8edd28f1789a3bfde06dd4554802d592c375"
+    },
+    {
+      "name": "bus_stop",
+      "sha256": "3d90cbbdae598e9b2933ec6a64cf3dab09e1d7d6b2c9b05e01b634f81c7fff79",
+      "shareIndex": 5,
+      "iv": "129cc3a0063e84286c289c5735277a01",
+      "ciphertext": "c3d9e3ba68691aaac8684d23b60d4d754c444ad26fe3ce6a0a29d75e8e5bd37f5202c7fb14da9e4c8ece16a834fad8f8"
+    },
+    {
+      "name": "no_entry",
+      "sha256": "3e2b3e0a4dd257dc2f54e48e1dc30a670cd54ab18068327abb924bb99ba12065",
+      "shareIndex": 6,
+      "iv": "2e8af4b4bbb17b173d3cf4d2b0a09a47",
+      "ciphertext": "7571f3b8550317301a139a8eaf2556a334726c103fcc6f55d3e00f9ed155bb2c55440efab7880843b94b59663b64377d"
+    },
+    {
+      "name": "parking",
+      "sha256": "be876938a58c5832617944f24977dac4b838b3b4929998a4c959445771d3cc9f",
+      "shareIndex": 7,
+      "iv": "8555663f36a124ea3796623de24e82f9",
+      "ciphertext": "61068a547bb5b0bebe11881f210bab033838f335a2f23b706c3ec024495e6e7f9a7136156ba20c76e6a21976b8ea7c4e"
+    },
+    {
+      "name": "tour_bus",
+      "sha256": "574ea3d9821e2c91f3cbdf893b143f73e9ff0ed82a5388a3a396be366f3c112c",
+      "shareIndex": 8,
+      "iv": "29a955ebee6ea114877c4f79ac497e67",
+      "ciphertext": "781cd2ddb15498a6d20d4f8d496c5c69c6896b697c7d8cb8f0d0d71fb37ec1806e1dc05e5d07cb5fd25f5258469dab12"
+    },
+    {
+      "name": "dragon",
+      "sha256": "dc2c3dd0e5d5c7590abb9b5114b5d812c51b3960addeb426b41e23e0e0fa8928",
+      "shareIndex": 9,
+      "iv": "fcaf9ed0bda18b0f02c188bfd59cb7a3",
+      "ciphertext": "b5ecdb59c4f9a639c800de2020e43e5dcfb77b53b479920049e7e7c2e2f5b8ab333610bc4b85a5f57cf640dbc5d55849"
+    },
+    {
+      "name": "2011",
+      "sha256": "7bef61539e052244545894f260c34c7a215b163746d221fef4afde7e871486c6",
+      "shareIndex": 10,
+      "iv": "b83370bf68ff1d1873c378e474d812ab",
+      "ciphertext": "4175d86844f08ababf215020a49d8581176dbc2ef01e9572a18c6034e30f47e8ac2dba4c6b6cb8a32df9345fe4d09ab7"
+    }
+  ],
+  "hard": [
+    {
+      "name": "torga",
+      "sha256": "9313b0c92389a795a6f09f0bf36aae7b7a394b795e60360e74b1c8abd5c652b4",
+      "shareIndex": 1,
+      "iv": "347be80222eeed402ea7b43593a9a27a",
+      "ciphertext": "b5e470e11d938ac8e88e403299d9270008e8039914076b1aaebd233b4af434c8807b846cbdaa0f73d7a44e165d2a8e1c"
+    },
+    {
+      "name": "mini_cooper",
+      "sha256": "84f18bddc6bddae7871ca16769cef63198a685eec5421c02cd3c953b233ca049",
+      "shareIndex": 2,
+      "iv": "d98677a937278de101d2c671545dc3f0",
+      "ciphertext": "ad2cec22545246683323124615f67557918f523c0e6a46c86409203275e1d6c1724a7acfcf89c541df2342a3f10020b2"
+    },
+    {
+      "name": "vagrant",
+      "sha256": "760a9d992a53d726654aa04c72d6f548c983725145dc099b072e341c01a7bc60",
+      "shareIndex": 3,
+      "iv": "a3f7316c290ad9bcbd32f9ba3dd0b022",
+      "ciphertext": "1ba23931d9293ccf157807c08a655d440f6e7b9cc16a08f176ea2016b6b45ff6c94c102101b152982f5ca22a79aa06f5"
+    },
+    {
+      "name": "walkable",
+      "sha256": "ef83c5b3df5256b563f49ad7eae4731fc90654032a2bd46b2f11a8ce8a02ba67",
+      "shareIndex": 4,
+      "iv": "6a1992af2d938fa4f83de2f1cbd1b91d",
+      "ciphertext": "fa553613279762d00ff3359eef94468d08feacc4e499c6fd8504b27162a8799c94c11510f722356eddec18e92e7ea102"
+    },
+    {
+      "name": "1f5ff",
+      "sha256": "e0c70872d4ca8875fe328581a5a1bc32e78a606ed718daa29607ccab119840ee",
+      "shareIndex": 5,
+      "iv": "1f5c023045f6fb439446c2a4424dbc2d",
+      "ciphertext": "f631c7903eb1cba715c8f9e5c39eeed521aeb290e2f32d46e10086bc170190431b838435bbb369e37caed04875759d98"
+    },
+    {
+      "name": "shipping",
+      "sha256": "ace2827bb59835e718e322f942ccf86bdbd6f7309e26b64c103d2f2e2bcf2665",
+      "shareIndex": 6,
+      "iv": "db58be0e9416e2067030f46dc704bbb6",
+      "ciphertext": "8982ef788920743a31768c166b28788217399cf7099fb0cce54691668326b00cb0a664002069bdfcc0622a95e99c518e"
+    },
+    {
+      "name": "blue",
+      "sha256": "c413d0b543f98675c57ffbe81d5ddb9a2cb3cb88df69a07c83345981d9ba5ef2",
+      "shareIndex": 7,
+      "iv": "6a36dd617c8849dfae15e5204cd2952f",
+      "ciphertext": "d95c01efe00cf30034bd119d3752f1171dcfb90f777746bb16db6e2be6e65a832503cefa7b5105fcc4d7dc47cbddb3ff"
+    },
+    {
+      "name": "crop_circles",
+      "sha256": "3245516abfa02d3f4cc50fd2361f7bac759c02964dfece4c585aca5ab47b4bcb",
+      "shareIndex": 8,
+      "iv": "6d33da3ea9837621a3cb165dc667db9b",
+      "ciphertext": "1b94c9c9b6c9d8a456eb6617832d3d59e3cc3e1fe39ce4615fe09efc27ccd2219a89e4f358e1a30d577f9ac694a4c0a8"
+    },
+    {
+      "name": "cabbage",
+      "sha256": "576efc9318778ae444cd43913bf72e7484a5760a6d4c1914d70a2a7a931380ac",
+      "shareIndex": 9,
+      "iv": "6c7032160d5288ce881d93c97e34c1d9",
+      "ciphertext": "8cd2c7044f0f69073d903c51e0f4412723a680f29ebc64d1026200ff190634cbc0c2ca71ae7a2b9d25c931a44620dc7c"
+    },
+    {
+      "name": "blocks",
+      "sha256": "60e8a4252cfd18ba1ccb140545b2558adb5f1b4502f1d333ab03111004616992",
+      "shareIndex": 10,
+      "iv": "d9aa6b5d8b37a4904ed1d70494794f89",
+      "ciphertext": "b053a45275fdc971b3647a4ae2ab7ee61bf97a1933c95cd51c3db64ac66da8d742810d5c3d02a709bcba10b1820cad4b"
+    }
+  ]
+}
